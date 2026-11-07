@@ -60,3 +60,10 @@ value.
 - The program checks whether the selected category is between 1 and 4.
 - It handles invalid numeric input using ValueError.
 - It displays an error message if the conversion direction is not 1 or 2.
+- ## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide
